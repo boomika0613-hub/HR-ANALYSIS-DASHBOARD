@@ -12,3 +12,24 @@ The data is stored in Excel format and serves as the primary data source for Pow
 It is suitable for practicing HR analytics, KPI tracking, and dashboard development.
 
 -<a href="https://github.com/Employee Sample Data (Excel)">Employee Data</a>
+## Key Questions / KPIs Analyzed
+
+-Total number of employees
+
+-Employee distribution by department
+
+-Employee distribution by gender
+
+-Average salary by department
+
+-Salary distribution across job roles
+
+-Experience vs salary analysis
+
+-Department-wise employee count
+
+-Attrition / active employee analysis (if applicable)
+
+-Highest and lowest paid roles
+
+-Overall workforce trends and patterns
