@@ -13,7 +13,7 @@ It is suitable for practicing HR analytics, KPI tracking, and dashboard developm
 
 -<a href="https://github.com/Employee Sample Data (Excel)">Employee Data</a>
 
-https://github.com/boomika0613-hub/HR-ANALYSIS-DASHBOARD/blob/main/README.md
+-<a href="https://github.com/boomika0613-hub/HR-ANALYSIS-DASHBOARD/blob/main/README.md">Dataset</a>
 
 ## Key Questions / KPIs Analyzed
 
