@@ -67,10 +67,11 @@ It is suitable for practicing HR analytics, KPI tracking, and dashboard developm
 
 -Interactive filters allow users to explore employee data efficiently.
 
-##Final Conclusion
+## Final Conclusion
 
 This Power BI project successfully transforms raw employee data into meaningful visual insights.
 The dashboard supports better decision-making by presenting key workforce metrics in an interactive manner.
+
 Overall, the project demonstrates effective data cleaning, KPI creation, and visualization techniques using Power BI.
 
 
