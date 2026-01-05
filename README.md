@@ -52,7 +52,26 @@ It is suitable for practicing HR analytics, KPI tracking, and dashboard developm
 -Analyzed insights and finalized the Power BI report.
 
 ##Dashboard Interactions
+
 <img width="984" height="558" alt="Screenshot power bi 1-1" src="https://github.com/user-attachments/assets/ba81a9e9-133e-4cbd-9de4-aa3be5f1811a" />
-<img width="984" height="558" alt="Screenshot power bi 1-1" src="https://github.com/user-attachments/assets/ba81a9e9-133e-4cbd-9de4-aa3be5f1811a" />
+
+## Project Insights
+
+-The dashboard provides a clear overview of the total workforce and department-wise employee distribution.
+
+-Salary analysis highlights variations across job roles and departments.
+
+-Gender and experience-based analysis helps understand workforce diversity.
+
+-KPIs enable quick identification of high-performing and high-cost departments.
+
+-Interactive filters allow users to explore employee data efficiently.
+
+##Final Conclusion
+
+This Power BI project successfully transforms raw employee data into meaningful visual insights.
+The dashboard supports better decision-making by presenting key workforce metrics in an interactive manner.
+Overall, the project demonstrates effective data cleaning, KPI creation, and visualization techniques using Power BI.
+
 
 
