@@ -47,4 +47,5 @@ It is suitable for practicing HR analytics, KPI tracking, and dashboard developm
 -Designed interactive dashboards using charts and slicers.
 
 -Analyzed insights and finalized the Power BI report.
--<a href="https://github.com/boomika0613/HR-ANALYSIS-DASHBOARD/blob/main/project%20bi%201.pbix">View Dashboard<</a>
+
+-Dashboard Interactions<a href="https://github.com/boomika0613/HR-ANALYSIS-DASHBOARD/blob/main/project%20bi%201.pbix">View Dashboard</a>
