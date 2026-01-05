@@ -55,6 +55,8 @@ It is suitable for practicing HR analytics, KPI tracking, and dashboard developm
 
 <img width="984" height="558" alt="Screenshot power bi 1-1" src="https://github.com/user-attachments/assets/ba81a9e9-133e-4cbd-9de4-aa3be5f1811a" />
 
+<img width="1030" height="540" alt="power bi screenshot 1-2" src="https://github.com/user-attachments/assets/ff1df3b4-fcd5-47d8-a5a8-0a48d6ce20cc" />
+
 ## Project Insights
 
 -The dashboard provides a clear overview of the total workforce and department-wise employee distribution.
