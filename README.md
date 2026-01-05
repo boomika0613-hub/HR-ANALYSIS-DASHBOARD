@@ -51,4 +51,8 @@ It is suitable for practicing HR analytics, KPI tracking, and dashboard developm
 
 -Analyzed insights and finalized the Power BI report.
 
--Dashboard Interactions<a href="https://github.com/boomika0613-hub/HR-ANALYSIS-DASHBOARD/blob/main/project%20bi%201.pbix">View Dashboard</a>
+##Dashboard Interactions
+<img width="984" height="558" alt="Screenshot power bi 1-1" src="https://github.com/user-attachments/assets/ba81a9e9-133e-4cbd-9de4-aa3be5f1811a" />
+<img width="984" height="558" alt="Screenshot power bi 1-1" src="https://github.com/user-attachments/assets/ba81a9e9-133e-4cbd-9de4-aa3be5f1811a" />
+
+
