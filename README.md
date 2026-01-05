@@ -34,6 +34,9 @@ It is suitable for practicing HR analytics, KPI tracking, and dashboard developm
 -Highest and lowest paid roles
 
 -Overall workforce trends and patterns
+
+-Dashboard Interactions  <a href="https://github.com/boomika0613-hub/HR-ANALYSIS-DASHBOARD/blob/main/project%20bi%201.pbix">View Dashboard</a>
+
 ## Process
 
 -Collected employee data in Excel format and imported it into Power BI.
