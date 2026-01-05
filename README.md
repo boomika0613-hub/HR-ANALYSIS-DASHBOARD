@@ -4,3 +4,10 @@
 The objective of this project is to analyze employee data and gain meaningful insights related to workforce distribution, performance, and organizational trends.
 Using Power BI, the raw employee dataset is transformed into interactive dashboards to support data-driven decision-making.
 This project demonstrates data cleaning, modeling, and visualization techniques commonly used in real-world business analytics.
+
+## Dataset Used
+
+The dataset used in this project is an Employee Sample Dataset containing employee-level information such as demographics, job roles, salary, department, and experience.
+The data is stored in Excel format and serves as the primary data source for Power BI analysis.
+It is suitable for practicing HR analytics, KPI tracking, and dashboard development.
+Employee Sample Data (Excel)
