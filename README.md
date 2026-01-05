@@ -34,3 +34,16 @@ It is suitable for practicing HR analytics, KPI tracking, and dashboard developm
 -Highest and lowest paid roles
 
 -Overall workforce trends and patterns
+## Process
+
+-Collected employee data in Excel format and imported it into Power BI.
+
+-Cleaned and prepared the data using Power Query Editor.
+
+-Created relationships and DAX measures for key metrics.
+
+-Defined important KPIs for employee analysis.
+
+-Designed interactive dashboards using charts and slicers.
+
+-Analyzed insights and finalized the Power BI report.
