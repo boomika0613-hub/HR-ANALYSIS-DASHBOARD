@@ -12,6 +12,7 @@ The data is stored in Excel format and serves as the primary data source for Pow
 It is suitable for practicing HR analytics, KPI tracking, and dashboard development.
 
 -<a href="https://github.com/Employee Sample Data (Excel)">Employee Data</a>
+https://github.com/boomika0613-hub/HR-ANALYSIS-DASHBOARD/blob/main/README.md
 ## Key Questions / KPIs Analyzed
 
 -Total number of employees
